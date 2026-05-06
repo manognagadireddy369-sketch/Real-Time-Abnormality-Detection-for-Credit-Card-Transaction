@@ -178,5 +178,3 @@ results = pd.DataFrame({
 })
 
 results.to_csv('model_results.csv', index=False)
-
-print('Project Completed Successfully!')
